@@ -8,9 +8,13 @@
 }   
 .row2{
     display: grid;
-    grid-template-columns: repeat(6,1fr);
+    grid-template-columns: repeat(6,2fr);
 }   
 .row3{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3,4fr);
+}   
+.row4{
+    display: grid;
+    grid-template-columns: 1fr;
 }   
